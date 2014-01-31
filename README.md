@@ -1,7 +1,7 @@
-Front-end Interview Finland
+Front-end Developer Interview in Finland
 ==========================
 
-Front-end Developer Interview Questions - created by Finnish companies and communities
+Front-end Developer Interview Questions - maintained by Finnish companies and communities
 
 Inspired by: https://github.com/darcyclarke/Front-end-Developer-Interview-Questions
 
